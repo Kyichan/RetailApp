@@ -1,0 +1,9 @@
+const RETAIL = 'RETAIL'
+
+const actions = {
+  GET_ACCOUNTS: `${RETAIL}_GET_ACCOUNTS`,
+  GET_TRANSACTION_BY_ID: `${RETAIL}_GET_TRANSACTIONS_BY_ACCOUNT_ID`,
+  RESET_ACCOUNT: `${RETAIL}_RESET_ACCOUNT`
+}
+
+export default actions
