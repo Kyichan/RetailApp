@@ -13,7 +13,7 @@ Start the development server `npm start`.
 
 ## Author
 
-- [Shwe Yee Winn](https://www.linkedin.com/in/shweyeewinn/) - Frontend Engineer
+- [Kyi Chan](https://github.com/Kyichan/) - Frontend Engineer
 
 ## Tech Stack
 
